@@ -1,0 +1,180 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    /* font embedding */
+    font-family: 'Merriweather', serif;
+}
+
+.benny-picture {
+    margin-top: 6em;
+
+}
+
+
+h1 {
+    font-size: 4em;
+    margin-top: 0;
+    width: 20%;
+    margin: 0 auto ;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+}
+
+.p-title {
+    text-align: center;
+    color: #45b29a;
+    padding: 0.5em 0;
+    font-size: 180%;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+
+}
+
+
+.p1 {
+    position: relative;
+    text-align: center;
+    font-size: 1em;
+    margin: 0 0 10px;
+}
+
+#hello {
+    position: relative;
+    padding: 6em;
+
+}
+.top-container {    
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+
+}
+
+.middle-container {
+    max-width: 550px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px
+    
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 100px;
+}
+.bot-cloud {
+    position:absolute;
+    left: 400px;
+    bottom: 300px;
+
+}
+#mountain-1 img {
+    width: 45%
+}
+
+hr {
+    background-color: none;
+    border-color: #a3adad;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%
+}
+
+/* top and middle container? */
+/* skill */
+#my-skills {
+    padding:6em;
+
+}
+.skill-h2 {
+    color:#66BFBF ;
+    margin-bottom: 80px;
+
+}
+
+.skill-row {
+    text-align: start;
+    padding-left: 100px;
+}
+.img-computer {
+    border-radius: 50%;
+    width: 20%;
+}
+
+.skill-h3 {
+    text-align: start;
+    position:relative; 
+    margin-right: 25%;
+    margin-left: 22%;
+    bottom: 150px;
+    color:#66BFBF;
+    font-weight: 800;
+}
+
+.p2 {
+    position: relative; bottom: 150px;
+    margin-left: 22%;
+    margin-right: 25%;
+    
+}
+
+.skill-row2 {
+    text-align: right;
+}
+
+.chillies {
+    position: relative;right: 100px;
+    width: 20%;
+    
+}
+.h3 { 
+    text-align: start;
+    position:relative; bottom: 190px; left: 100px;
+    margin-right: 80%;
+    color:#66BFBF;
+    font-weight: 800;
+}
+
+.p3 {
+    position: relative; bottom:150px; left: 100px;
+    margin-right: 50%;
+    text-align: start   ;
+}
+
+.contact-me {
+    margin: 5em;
+}
+h4 {
+    padding: 15px;
+    color: #66BFBF;
+}
+
+.btn {
+
+    position: relative; top: 30px;
+    background-color: #28bbbb;
+    color:aliceblue;
+    padding: 5px 10px 5px 10px;
+}
+
+.bottom-container {
+    padding: 30px 0 ;
+    margin-top: 6em;
+    background-color: #82dadd ;
+}
+
+
+.footer-link {
+    position: relative; top: 10px;
+    padding: 10px;
+    color: #11999E ;
+}
