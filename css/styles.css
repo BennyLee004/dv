@@ -73,12 +73,12 @@ p {
 
 
 .top-cloud {
-    position: relative; right: 100px;
+    position: relative; right: 50px;
     float: right;
     top: 100px;
 }
 .bot-cloud {
-    position: absolute; left: 100px;
+    position: absolute; left: 0px;
     float: left;
     bottom: 300px;
 
